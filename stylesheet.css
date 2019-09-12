@@ -1,13 +1,20 @@
 body {
-  background-color:darkblue;
+  background-color:lightgreen;
 }
-
-
-/* this is where your resume would go */
+p { 
+ color: gray;
+}
+a {
+ color: blue;
+}
+ul {
+ color: gray
+}
 .content{
-  background-color:lightgray;
-  width:70%; /* set the width you want for the div */
-  margin: 0 auto; /* used to center the div */
-  text-align:left; /* left justifies the text inside of the div */
-  padding:20px;
+  background-color:yellow;
+  width:80%;
+  margin: 0 auto;
+  text-align:left;
+  padding:30px;
+  
 }
